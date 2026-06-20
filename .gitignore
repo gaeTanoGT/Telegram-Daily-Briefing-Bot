@@ -1,0 +1,9 @@
+*.tfvars
+*.tfstate
+*.tfstate.*
+*.odt
+*.zip
+*.code-workspace
+
+.terraform/
+.lock.*
