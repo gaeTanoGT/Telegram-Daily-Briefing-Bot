@@ -19,3 +19,4 @@ Un assistente personale su Telegram che invia aggiornamenti automatici sul meteo
 * **API:** Telegram, OpenWeather, Finnhub
 
 
+🚀 Costruito per imparare. Questo bot rappresenta il mio approccio pratico all'infrastruttura Cloud Serverless e all'Infrastructure as Code (IaC), supportato dall'AI per accelerare lo studio e il troubleshooting.
